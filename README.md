@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BenjaminLeguizamon99
-- 👀 Nowadays I'm studying FrontEnd development but I'm also interested in the backend and I want to study it in the future.
-- 🌱 I’m currently learning React.JS.
+- 👋 Hola! Soy @BenjaminLeguizamon99
+- 👀 Actualmente me encuentro estudiando ingenieria en sistemas de informacion.
+- 📊 Me apasiona el mundo de los datos y me encantaria algun dia trabajar como cientifico de datos.
+- 🌱 Estoy aprendiendo Python y Pandas para la limpieza de datasets
 - 📫 How to reach me https://www.linkedin.com/in/benjamin-leguizamon/
 
 <!---
