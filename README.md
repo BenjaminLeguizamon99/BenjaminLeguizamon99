@@ -1,7 +1,8 @@
 - 👋 Hola! Soy @BenjaminLeguizamon99
-- 👀 Actualmente me encuentro estudiando ingenieria en sistemas de informacion.
-- 📊 Me apasiona el mundo de los datos y me encantaria algun dia trabajar como cientifico de datos.
-- 🌱 Estoy aprendiendo Python y Pandas para la limpieza de datasets
+- 🤓 Estudiante de Ingeniería en Sistemas de Información en la UTN FRC, con formación previa en Ingeniería Industrial.
+- 💻 Descubrí mi pasión por la programación durante la pandemia y desde entonces me he enfocado en desarrollarme en el mundo IT.
+- 📖 Me considero una persona curiosa, comprometida y con gran capacidad de adaptación y trabajo en equipo.
+- 🗽  participé en dos programas de intercambio cultural en EE. UU., donde fortalecí mi nivel de inglés y habilidades interpersonales en contextos multiculturales.
 - 📫 How to reach me https://www.linkedin.com/in/benjamin-leguizamon/
 
 <!---
